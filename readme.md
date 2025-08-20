@@ -2,6 +2,4 @@
 
 This is a random readme file.
 
-This is an extra sentence. Mark the difference
-
-
+Now I am gonna do some addition and add it to feature branch
